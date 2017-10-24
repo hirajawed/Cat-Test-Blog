@@ -1,0 +1,29 @@
+//body is like the global for everything including links.
+body{
+    
+   font-family: Helvetica Neue, Arial; //Helvetica Neue is the first choice of the font and arial is the second choice.
+   font-size: 18px;
+}
+
+
+
+h1, h2{
+     color: #009f3d;
+}
+
+
+
+h1{
+    font-size: 40px;
+}
+
+
+h2{
+    font-size: 25px;
+}
+
+
+p {  
+    text-align: justify;
+   
+}

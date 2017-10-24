@@ -1,0 +1,55 @@
+
+.catpic {
+    background-color: antiquewhite;
+    width: 75%;
+    float: left;
+    
+}
+
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.other {
+    background-color: lightyellow;
+    width: 15px;
+    float: left;
+    
+  
+    
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: red;
+    
+  
+    
+}
+
+.Main-Cat {
+    text-align: justify;
+    padding-right: 1px;
+    
+    
+}
+
+.Author-box {
+    border-top: 2px solid blue;
+}
+
+.main {
+   
+    margin: 20px auto 0 auto;
+}
+
+.FlatFace-Cat {
+    text-align: right;
+    padding: 10px;
+}
