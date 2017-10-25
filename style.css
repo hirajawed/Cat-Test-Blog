@@ -1,9 +1,8 @@
 
 .catpic {
     background-color: antiquewhite;
-    width: 75%;
+    width: 50%;
     float: left;
-    
 }
 
 .clearfix:after{
@@ -15,41 +14,69 @@
 
 .other {
     background-color: lightyellow;
-    width: 15px;
+    width: 50;
     float: left;
-    
-  
-    
+     margin: 0px 35px 50px 50px; 
 }
+
 
 h1 {
     color: purple;
 }
 
+
+
 h2 {
     color: red;
     
-  
-    
 }
+
 
 .Main-Cat {
     text-align: justify;
-    padding-right: 1px;
-    
-    
+    padding-right: 100px; 
 }
+
 
 .Author-box {
     border-top: 2px solid blue;
 }
 
-.main {
-   
+
+.main {   
     margin: 20px auto 0 auto;
 }
 
+
 .FlatFace-Cat {
     text-align: right;
-    padding: 10px;
+    padding: 20px;
+}
+
+
+.Other-cat {
+    float: left;
+}
+
+
+.date {
+    position: relative;
+    top: -40px;
+    right: -850px;
+    padding-right: 500px;  
+}
+
+
+.author-text {
+    text-align: left;
+    font-size: 20px;
+    float: left;
+    color: purple;
+}
+
+.Author-box img{
+    height: 100px;
+    width: 100px;
+    border-radius: 40%;
+    float: left;  
 }
